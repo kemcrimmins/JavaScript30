@@ -1,1 +1,1 @@
-Sweet drum kit! (Practice event selectors, etc.)
+Sweet drum kit! (Practice query selectors and event listeners)
